@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/a63933/vue-game-backend#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
   }
 }
